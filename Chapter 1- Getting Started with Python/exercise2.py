@@ -1,2 +1,2 @@
 import platform
-print(platform.python_version())
+print("python version: ", platform.python_version())

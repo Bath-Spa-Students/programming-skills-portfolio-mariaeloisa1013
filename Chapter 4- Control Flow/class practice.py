@@ -10,8 +10,10 @@ print("Your Extra : " + str(extra ))
 dogs = int(input("How many dogs do u have: "))
 cats = int(input("How many cats do you have: "))
 
-if dogs > cats:
-    if cats == dogs:
+if dogs > 2 :
+    if cats > 2 :
         print("You love both cats and dogs equally")
-    else: print ("You are a cat person")
-else: print ("You are a dog person")z
+    else: 
+        print ("You are a dog person")
+else: 
+     print ("You are a cat person")

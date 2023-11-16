@@ -1,4 +1,3 @@
-#dictionries: cat, dog, bird, turtle, fish. store dictionaries into pets. loop the list . everything you know\
 pets = []
 animal = {'name':'ramram',
           'animal':'cat',
